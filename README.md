@@ -1,0 +1,2 @@
+# InfraServer
+和QT-IntergratedAssistant工程配套的运行在嵌入式域控制器中的server程序
